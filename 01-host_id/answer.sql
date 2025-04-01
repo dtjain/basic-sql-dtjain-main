@@ -1,1 +1,1 @@
-
+SELECT id, host_id FROM airbnb_ny.stay;
