@@ -1,1 +1,1 @@
-
+SELECT neighbourhood_group, neighbourhood FROM airbnb_ny.stay;
